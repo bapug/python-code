@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Aspen Labs and Innovuze}{4}{0}{1}
+\beamer@sectionintoc {3}{Python}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{Why Python}{7}{0}{2}
+\beamer@subsectionintoc {3}{2}{Zen of Python}{8}{0}{2}
+\beamer@subsectionintoc {3}{3}{Python Variants}{9}{0}{2}
+\beamer@subsectionintoc {3}{4}{Python Language}{10}{0}{2}
+\beamer@subsectionintoc {3}{5}{Python Libraries}{11}{0}{2}
+\beamer@subsectionintoc {3}{6}{virtualenv}{12}{0}{2}
+\beamer@sectionintoc {4}{Django}{13}{0}{3}
+\beamer@subsectionintoc {4}{1}{Who uses it?}{14}{0}{3}
+\beamer@subsectionintoc {4}{2}{Quick Introduction}{15}{0}{3}
+\beamer@subsectionintoc {4}{3}{Mobile}{16}{0}{3}
+\beamer@subsectionintoc {4}{4}{Examples}{17}{0}{3}

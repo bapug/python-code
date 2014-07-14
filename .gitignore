@@ -1,0 +1,11 @@
+PythonPresentation.aux
+*.log
+*.synctex.gz
+*.synctex.gz
+*.snm
+PythonPresentation.out
+*.out
+*.ipr
+*.iws
+.boto
+PythonPresentation.nav
