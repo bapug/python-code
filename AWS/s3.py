@@ -209,11 +209,13 @@ class S3Storage(object):
         print ("Key name:%s" % k.name)
         k.set_contents_from_filename(localfile,replace=True)
 
+
 def main():
     """
     Do some testing. But you'll need to provide a bucket.
     :return:
     """
+    # Replace with the name of a working bucket on your S3 system.
     bucket = "partsim_eddev_projects"
     ps = S3Storage(bucket)
 
